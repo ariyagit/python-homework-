@@ -1,0 +1,63 @@
+
+# 1. جمع و تفریق ساده بدون متغیر
+
+print(2 + 2)
+print(5 + 3)
+print(10 - 4)
+print(8 - 2)
+print(7 + 6)
+
+
+# 2. جمع و تفریق با متغیر
+
+a = 5
+b = 3
+print(a + b)
+
+x = 10
+y = 4
+print(x - y)
+
+c = 6
+d = 2
+print(c + d)
+
+m = 9
+n = 5
+print(m - n)
+
+num1 = 7
+num2 = 8
+print(num1 + num2)
+
+
+# 3. مقایسه بدون متغیر
+
+print(5 > 3)
+print(2 < 8)
+print(4 == 4)
+print(7 != 5)
+print(10 >= 6)
+
+
+# 4. مقایسه با متغیر
+
+a = 10
+b = 5
+print(a > b)
+
+x = 3
+y = 8
+print(x < y)
+
+c = 6
+d = 6
+print(c == d)
+
+m = 9
+n = 4
+print(m != n)
+
+num1 = 7
+num2 = 7
+print(num1 >= num2)
